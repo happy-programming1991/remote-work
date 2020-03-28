@@ -4,12 +4,12 @@ Jobs and Tips for remote work
 ### English website for remote jobs
 - [remotive.io](https://remotive.io/)
 - [angel](https://angel.co/remote)
+- [slasify](https://slasify.com/en/remote-jobs?page=1)
 - [producthunt remote jobs](https://www.producthunt.com/jobs?remote_ok=true)
 - [topcoder](https://www.topcoder.com/)
 - [remoteok](https://remoteok.io/)
 - [weworkremotely](https://weworkremotely.com/)
 - [stackoverflow remote jobs](https://stackoverflow.com/jobs?r=true)
-- [slasify](https://slasify.com/en/remote-jobs?page=1)
 - [flexjobs](https://www.flexjobs.com/jobs/computer-it)
 - [upwork](https://www.upwork.com/)
 - [toptal](https://www.toptal.com/)
