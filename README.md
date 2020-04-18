@@ -38,8 +38,6 @@ Jobs and Tips for remote work
 ### Chinese website for remote jobs
 - [电鸭社区](https://eleduck.com/)
 - [远程.work](https://yuancheng.work/)
-- [猿急送](https://www.yuanjisong.com/)
-- [开发邦](https://www.kaifabang.com/)
 
 ---
 
