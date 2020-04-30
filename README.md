@@ -37,7 +37,7 @@ Jobs and Tips for remote work
 ---
 
 ### Chinese website for remote jobs
-- [电鸭社区](https://eleduck.com/)
+- [eleduck](https://eleduck.com/)
 
 ---
 
