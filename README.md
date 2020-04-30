@@ -27,6 +27,7 @@ Jobs and Tips for remote work
 - [upwork](https://www.upwork.com/)
 - [toptal](https://www.toptal.com/)
 - [Freelancer](https://www.freelancer.com/)
+- [wfhjobs software engineering](https://wfhjobs.us/jobs/category/software-engineering/)
 - [Linkedin](https://www.linkedin.com/jobs/)
 - [Indeed](https://www.indeed.co.uk/)
 - [Glassdoor](https://www.glassdoor.co.uk/index.htm)
@@ -37,7 +38,6 @@ Jobs and Tips for remote work
 
 ### Chinese website for remote jobs
 - [电鸭社区](https://eleduck.com/)
-- [远程.work](https://yuancheng.work/)
 
 ---
 
